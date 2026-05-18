@@ -144,6 +144,17 @@ Full column definitions are in `docs/Data_Dictionary.xlsx`.
 
 ---
 
+## GitHub
+
+This project was uploaded to GitHub sequentially to reflect the full development process.
+Each stage of the pipeline, including data ingestion, preprocessing, database integration, 
+analysis, and automation, was committed separately to maintain a clear and traceable commit history.
+
+The repository history documents the progression of the project from initial setup through to the 
+final implementation, allowing changes and feature additions to be reviewed step by step.
+🔗 https://github.com/izzamgolamaully/crime_pipeline
+---
+
 ## Author
 
 Izzam — Rockborne Data Training Programme, May 2026
